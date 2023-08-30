@@ -57,7 +57,7 @@ In addition to my technical expertise, I am a reliable and detail-oriented profe
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me : </h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-gamal-5997241b4/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:markgamal32@gmail.com)](mailto:markgamal32@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markgamal32@gmail.com)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mark.gamal.338)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-squaree&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01228153727)
 </br></br>

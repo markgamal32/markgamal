@@ -20,8 +20,8 @@
   Hi, I'm Mark Gamal,
 </h3>
 <p align="start">
-  I am a web developer with expertise in various technologies and tools, including C#, ASP.NET Core, LINQ, ASP.NET Web API, Microsoft SQL Server, and ASP.NET MVC JavaScript, TypeScript, Angular. My passion lies in creating efficient and scalable software solutions tailored to the unique needs of businesses and individuals.
-What sets me apart is my dedication to understanding client requirements and preferences, and my ability to communicate and collaborate with stakeholders effectively. I thrive on actively engaging with clients throughout development, valuing their feedback and suggestions for continual improvement.
+  I am a Full-Stack Developer with expertise in various technologies and tools, including C#, ASP.NET Core, LINQ, ASP.NET Web API, Microsoft SQL Server,  ASP.NET MVC, JavaScript, TypeScript, and Angular. My passion lies in creating efficient and scalable software solutions tailored to the unique needs of businesses and individuals.
+My dedication to understanding client requirements and preferences sets me apart, as does my ability to communicate and collaborate with stakeholders effectively. I thrive on actively engaging with clients throughout development, valuing their feedback and suggestions for continual improvement.
 With a strong foundation in web development, I am adept at leveraging my technical skills to deliver high-quality solutions. I stay up-to-date with industry trends and best practices to ensure that my work aligns with current standards.
   <br>
 In addition to my technical expertise, I am a reliable and detail-oriented professional committed to meeting project deadlines. I am always eager to take on new challenges and expand my knowledge in the ever-evolving field of web development.

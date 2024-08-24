@@ -44,15 +44,21 @@ In addition to my technical expertise, I am a reliable and detail-oriented profe
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)<br>
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-013.svg?style=flat-square&logo=database&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-013.svg?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![EF](https://img.shields.io/badge/EF-0E83CD?style=flat-square&logo=EF&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Mvc](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)
 ![API](https://img.shields.io/badge/API-A30701?style=flat-square&logo=API&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 </br></br>
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me : </h2>
